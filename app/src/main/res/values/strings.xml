@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DoRe_Meet</string>
+    <string-array name="Specialités">
+        <item> specialité </item>
+        <item> Pianiste </item>
+        <item> Violoniste</item>
+        <item> Guitariste</item>
+        <item> Saxophoniste</item>
+        <item> Chanteur(se)</item>
+        <item> Autre </item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255286661981",
+    "project_id": "dore-meet",
+    "storage_bucket": "dore-meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255286661981:android:6fbfeaa448f6ed04c0ceb4",
+        "android_client_info": {
+          "package_name": "net.yousra.dore_meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255286661981-svcdb72aota43qi27j8q28duemlm7mif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4rDMAcpFm09YaYH3kMtOCRAfy_xbsJmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255286661981-svcdb72aota43qi27j8q28duemlm7mif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

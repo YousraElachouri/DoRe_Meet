@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ProfileActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="20dp"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Bienvenue"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="31dp"
+        android:padding="5dp"
+        android:layout_marginLeft="15dp"
+        android:text="nameuser"
+        android:textStyle="italic"/>
+
+    <Button
+        android:id="@+id/logoutbtn"
+        android:layout_width="149dp"
+        android:layout_height="44dp"
+        android:layout_marginLeft="30dp"
+        android:text="Deconnexion"
+        android:textAllCaps="false" />
+
+</LinearLayout>
+
+</LinearLayout>
